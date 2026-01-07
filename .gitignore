@@ -1,2 +1,4 @@
 # Specify filepatterns you want git to ignore.
 
+artometer notes.txt
+1 artstation scraper/images
