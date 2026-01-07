@@ -108,3 +108,4 @@ if __name__ == "__main__":
             print("="*50)
     else:
         print("Could not get CSRF token. You may need to be logged in.")
+

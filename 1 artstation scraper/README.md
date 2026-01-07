@@ -42,3 +42,4 @@ python artstation_scraper.py
 The script is functionally complete but requires proper authentication to work with Artstation's API. The 412 "Invalid CSRF Token" error indicates that Artstation's security measures are blocking automated access.
 
 
+
